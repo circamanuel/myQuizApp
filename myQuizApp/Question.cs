@@ -13,7 +13,7 @@ public class Question
         CorrectAnswerIndex = correctAnswerIndex;
     }
 
-    public bool isCorrectAnser(int choice)
+    public bool isCorrectAnswer(int choice)
     {
         return CorrectAnswerIndex == choice;
     }

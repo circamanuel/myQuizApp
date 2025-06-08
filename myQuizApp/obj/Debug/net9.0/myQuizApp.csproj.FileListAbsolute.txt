@@ -12,3 +12,4 @@
 /home/manuel/RiderProjects/myQuizApp/myQuizApp/obj/Debug/net9.0/myQuizApp.pdb
 /home/manuel/RiderProjects/myQuizApp/myQuizApp/obj/Debug/net9.0/myQuizApp.genruntimeconfig.cache
 /home/manuel/RiderProjects/myQuizApp/myQuizApp/obj/Debug/net9.0/ref/myQuizApp.dll
+/home/manuel/RiderProjects/myQuizApp/myQuizApp/obj/Debug/net9.0/myQuizApp.sourcelink.json
